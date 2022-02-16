@@ -14,6 +14,7 @@ const styles = StyleSheet.create({
   },
   scrollView: {height: 400, margin: 20},
   image: {flex: 1, height: null, width: null, borderRadius: 10},
+  // TODO: Estos null son estrictamente necesarios para alguna animacion me imagino no?
 });
 
 export default styles;
